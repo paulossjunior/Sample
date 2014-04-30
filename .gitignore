@@ -1,0 +1,2 @@
+# Ignora os binários criados pela build.
+/SimpleExampleDB/target/
